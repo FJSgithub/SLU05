@@ -1,5 +1,6 @@
 butter
 cabbage
 carrot
+eggs
 onion
 garlic
